@@ -36659,8 +36659,6 @@ Human betaherpesvirus 5 strain VHL/E,
 Human betaherpesvirus 5 transgenic strain
 Human betaherpesvirus 6A, variant A
 Human circovirus VS6600022, complete genome
-Human coronavirus HKU1 genotype A,
-Human Coronavirus NL63, complete genome
 Human cosavirus B1 polyprotein gene,
 Human cosavirus D1 polyprotein gene,
 Human cosavirus E1 polyprotein gene,
