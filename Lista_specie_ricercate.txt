@@ -1,4 +1,5 @@
-ELENCO DELLE SPECIE RICERCATE ALL'INTERNO DEL CAMPIONE ORDINATE ALFABETICAMENTE - I VIRUS SONO RIPORTATI IN CALCE ALL'ELENCO [Vista la dimensione dell'elenco è consigliato l'uso della funzione "cerca"]
+ELENCO DELLE SPECIE RICERCATE ALL'INTERNO DEL CAMPIONE ORDINATE ALFABETICAMENTE
+I VIRUS SONO RIPORTATI IN CALCE ALLA LISTA [Vista la dimensione dell'elenco è consigliato l'uso della funzione "cerca"]
 ----------------------------
             TAXON
 ----------------------------
