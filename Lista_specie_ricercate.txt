@@ -1,5 +1,7 @@
-Elenco delle specie ricercate all'interno del campione ordinate per ordine alfabetico - Virus riportati in calce all'elenco
-Taxon
+ELENCO DELLE SPECIE RICERCATE ALL'INTERNO DEL CAMPIONE ORDINATE ALFABETICAMENTE - I VIRUS SONO RIPORTATI IN CALCE ALL'ELENCO [Vista la dimensione dell'elenco è consigliato l'uso della funzione "cerca"]
+----------------------------
+            TAXON
+----------------------------
 [Bacillus] caldolyticus
 [Bacillus] caldotenax
 [Bacillus] caldovelox
