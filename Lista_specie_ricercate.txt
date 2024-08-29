@@ -34228,6 +34228,7 @@ Treponema isoptericolens
 Treponema lecithinolyticum
 Treponema maltophilum
 Treponema medium
+Treponema pallidum
 Treponema parvum
 Treponema pectinovorum
 Treponema pedis
