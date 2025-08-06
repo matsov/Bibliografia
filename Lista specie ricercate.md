@@ -8,7 +8,7 @@
 
 ## Batteri e Miceti
 
-[Bacillus] caldolyticus
+[Bacillus] caldolyticus \n
 [Bacillus] caldotenax
 [Bacillus] caldovelox
 [Brevibacterium] frigoritolerans
